@@ -101,7 +101,6 @@ Ketika terdapat arus masuk ke baterai:
 
 RPM menggunakan skala hingga:
 
-text
 0 - 1400 RPM
 
 
@@ -109,7 +108,6 @@ RPM ditampilkan menggunakan indikator visual pada dashboard.
 
 Contoh:
 
-text
 0     200     400     600     800     1000    1200    1400
 |------|-------|-------|-------|--------|--------|--------|
 
@@ -185,7 +183,6 @@ Halaman informasi baterai digunakan untuk melihat kondisi setiap cell.
 
 Informasi yang dapat ditampilkan:
 
-text
 CELL 01
 CELL 02
 CELL 03
@@ -306,7 +303,6 @@ Jangan menggunakan informasi dashboard sebagai satu-satunya sumber untuk menentu
 
 Dashboard untuk monitoring dan visualisasi data kendaraan listrik dengan fokus pada:
 
-text
 Speed
 RPM
 Battery
