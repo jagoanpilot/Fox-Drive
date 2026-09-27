@@ -1,6 +1,6 @@
 # FOX R EV Dashboard
 
-Web-based digital dashboard untuk motor listrik **Polytron Fox R**, dirancang dengan tampilan modern bergaya OEM dan dapat digunakan sebagai dashboard/speedometer digital pada perangkat Android, tablet, maupun display berbasis WebView.
+Digital dashboard untuk motor listrik **Polytron Fox R**, dirancang dengan tampilan modern bergaya OEM dan dapat digunakan sebagai dashboard/speedometer digital pada perangkat Android, tablet.
 
 Dashboard ini menggabungkan tampilan informasi kendaraan, data baterai, RPM, temperatur, daya listrik, trip, serta berbagai mode tampilan yang dapat disesuaikan melalui menu Settings.
 
