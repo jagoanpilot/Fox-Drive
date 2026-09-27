@@ -9,8 +9,6 @@ Buka halaman **[Releases](https://github.com/jagoanpilot/Fox-Drive/releases)** p
 
 ---
 
-## ✨ Features
-
 ### 🏍️ Main Dashboard
 
 * Digital speedometer hingga **999 km/h**
@@ -263,27 +261,6 @@ Dengan arsitektur tersebut, dashboard HTML berfungsi sebagai antarmuka pengguna 
 # 📷 Preview
 ![FOX R Dashboard](dashboard-main.png)
 ![FOX R Cell Info](dashboard-cell.png)
-
----
-
-# 🔧 Customization
-
-Project dapat dimodifikasi sesuai kebutuhan kendaraan.
-
-Beberapa bagian yang dapat dikembangkan:
-
-* Maximum speed
-* Maximum RPM
-* Battery capacity
-* Number of battery cells
-* Temperature limit
-* Power limit
-* Current limit
-* Energy calculation
-* Efficiency calculation
-* Trip calculation
-* Dashboard theme
-* Dashboard layout
 
 ---
 
